@@ -92,4 +92,4 @@ advancedForm.onsubmit = function(e) { e.preventDefault(); }
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
-resetBtn.addEventListener("click", resetAdvancedFields);
+resetBtn.addEventListener("click", resetAdvancedFields); 
